@@ -57,6 +57,7 @@ After having a closer look, we see that it is transposed expression matrix where
 ```{R}
 # create seurat object
 expr.t <- t(expr)
+dim(expr.t)
 head(expr.t[1:10.1:10])
 ```
 
