@@ -11,4 +11,4 @@ The tutorial covers Data download from SRA and cellranger preprocessing to gener
 - [Case-Control scRNA sample analysis](https://github.com/vijender-singh/scRNA_Tutorial/blob/main/04_Case_control_integrateData/04_DataIntegration_CaseControl.md)
 - [Trajectory analysis](https://github.com/vijender-singh/scRNA_Tutorial/blob/main/05_Trajectory_analysis/05_Trajectory_analysis_Bcell.md)
 
-The markdown file for each tutorial is in each folder.
+The markdown file for each section of the tutorial is in each folder.
